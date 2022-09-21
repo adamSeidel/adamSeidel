@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adamSeidel
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning about Full Stack development
+- 🌱 I’m currently studying a Bachelor of Science in Computer Science
 - 💞️ I’m looking to collaborate on portfolio projects
 - 📫 You can find my contact details here http://adamseidel.co.uk/contact.html
 
