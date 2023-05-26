@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adamSeidel
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently studying a Bachelor of Science in Computer Science
-- 📫 You can find my contact details here http://adamseidel.co.uk/
+- 📫 You can find my contact details here [adamseidel.co.uk](https://adamseidel.co.uk/)
 
 <!---
 adamSeidel/adamSeidel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
